@@ -11,4 +11,5 @@ Gosto muito do ecosistema do React, então uso muito o **Next.js**, **React Nati
 ### Quer bater um papo?
 Eu atualmente prefiro o Discord como meio de comunicação, então caso queria me adicionar:
 
-Nick: <R3Tro0o />#1306
+Nick: ``<R3Tro0o />#1306``
+
