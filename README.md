@@ -1,7 +1,7 @@
 # 👋 Faaala dev!!
 
 ### Um pouco sobre mim
-Me chamo **Guilherme Galaverna** tenho **15 anos** e atualmente estou apenas estudando.
+Me chamo **Guilherme Galaverna** tenho **17 anos** e atualmente estou apenas estudando.
 
 Quero me aperfeiçoar em **Front-End** e aprender um pouco de **Back-End** e **Mobile**.
 
